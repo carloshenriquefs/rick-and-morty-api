@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">rick-morty</string>
+    <string name="char_list">Character List</string>
 </resources>
